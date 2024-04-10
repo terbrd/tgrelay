@@ -1,0 +1,11 @@
+[Config]
+# Bot token
+token="token" 
+# Chat or user id that the bot will relay to
+destinationID=youruserid 
+# Command prefix
+commandPrefix="$"
+
+[Strings]
+# Your username
+name="yourname"
